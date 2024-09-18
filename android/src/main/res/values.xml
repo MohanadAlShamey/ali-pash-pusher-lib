@@ -1,0 +1,4 @@
+<resources>
+    <!-- تعريف المورد المفقود هنا -->
+    <attr name="lStar" format="dimension" />
+</resources>
